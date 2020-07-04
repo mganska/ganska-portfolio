@@ -6,6 +6,7 @@ My name is Mary Ganska, my pronouns are she/hers, and I am a part-time MPM stude
 
 I also enjoy photography and recently started a website with some of my work which can be found [here](https://www.maryganska.com/).
 
+##### Posing with my dog, Texas
 ![My dog, Texas, and me](https://github.com/mganska/ganska-portfolio/blob/master/DSC04423.JPG)
 
 ### What I Hope to Learn...
