@@ -1,4 +1,4 @@
-## ganska-portfolio
+## Ganska Portfolio
 This is the public portfolio of my work for Telling Stories with Data during the Summer 2020 term.
 
 ### About Me
