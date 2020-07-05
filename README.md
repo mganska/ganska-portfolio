@@ -6,9 +6,9 @@ My name is Mary Ganska, my pronouns are she/hers, and I am a part-time MPM stude
 
 I also enjoy photography and recently started a website with some of my work which can be found [here](https://www.maryganska.com/).
 
-<u><i>Posing with my dog, Texas, during Quarantine</i></u>
+<i>Posing with my dog, Texas, during Quarantine</i>
 <br>
-<img src="DSC04423.JPG" alt="drawing" width="300"/>
+<img src="DSC04423.JPG" alt="drawing" width="350"/>
 
 ### What I Hope to Learn...
 I am interested in how to leverage the data from my office to better communicate with our campus partners. I am hopeful that skills I learn in this course can be applied immediately to some projects I'd like to accomplish. 
