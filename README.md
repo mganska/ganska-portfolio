@@ -13,7 +13,7 @@ I also enjoy photography and this past fall, I started a website <a href="https:
 ### What I Hope to Learn...
 I am interested in how to leverage the data from my office to better communicate with our campus partners. I hope that skills I learn in this course can be applied immediately to some projects I'd like to accomplish. Our office is one that links to so many others on campus, and we have a high volume of work. Using data visualizations to communicate our needs to campus stakeholders could be one way to take things learned in this course and apply them quickly. 
 
-Once I graduate, I hope to either stay within CMU and find a position where I can use the skills I've learned more fully in my role, or I'm also open to moving to Non-profit positions. No matter where I land, I want to stay connected and passionate about whatever work I'm doing.
+Once I graduate, I hope to either stay within CMU and find a position where I can use the skills I've learned more fully in my role, or I'm also open to moving into the non-profit realm. No matter where I land, I want to stay connected and passionate about whatever work I'm doing.
 
 ### Portfolio
 This is where my data visualizations will be linked.
