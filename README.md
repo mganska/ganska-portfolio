@@ -4,9 +4,9 @@ This is the public portfolio of my work for Telling Stories with Data during the
 ### About Me
 My name is Mary Ganska, my pronouns are she/hers, and I am a part-time MPM student graduating in May 2021. I work at Carnegie Mellon University in the Office of International Education. I have always appreciated clear and clean data along with the way it can relay information so well, and I'm excited to work more with programs I haven't used before. 
 
-I also enjoy photography and recently started a website with some of my work which can be found [here](https://www.maryganska.com/).
+I also enjoy photography and this past fall, I started a website where some of my work which can be found <a href="https://www.maryganska.com/" target="_blank">here</a>!
 
-<i>Posing with my dog, Texas, during Quarantine</i>
+<u><i>Posing with my dog, Texas, during Quarantine</i></u>
 <br>
 <img src="DSC04423.JPG" alt="drawing" width="350"/>
 
