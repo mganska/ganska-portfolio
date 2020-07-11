@@ -18,7 +18,7 @@ Once I graduate, I hope to either stay within CMU and find a position where I ca
 ### Portfolio
 This is where my data visualizations will be linked.
 
-_Data Visualization #1_ due 7/15<br>
+_Data Visualization #1_ due 7/15 - [Link](/datavis1.md)<br>
 _Data Visualization #2_ due 7/22<br>
 _Final Project, Part 1_ due 7/29<br>
 _Final Project, Part 2_ due 8/5
