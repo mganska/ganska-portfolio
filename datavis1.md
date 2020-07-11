@@ -1,3 +1,3 @@
 Data Visualization Assignment: Visualizing Government Debt
 
-[Main Page of my Portfolio](ganska-portfolio.md) 
+[Main Page of my Portfolio](https://mganska.github.io/ganska-portfolio/) 
