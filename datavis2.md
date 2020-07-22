@@ -3,9 +3,9 @@
 
 <a href="https://mganska.github.io/ganska-portfolio/">Link to My Main Portfolio Page</a>
 
-### **Summary**
+## **Summary**
 
-For my second data visualization critique, I used a visualization from <a href="https://www.usatoday.com/in-depth/news/2020/07/20/protester-demands-police-policy-change-chokehold-ban/5357153002/" target="_blank">USA Today</a> that was focused on protester demands and recent police reform. Below is a screenshot of this visualization as well as three things that stood out to me as areas that could be improved for impact and understanding.
+For my second data visualization critique, I used a visualization from <a href="https://www.usatoday.com/in-depth/news/2020/07/20/protester-demands-police-policy-change-chokehold-ban/5357153002/" target="_blank">USA Today</a> that was focused on protester demands and recent police reform. Below is a screenshot of this visualization as well as three things that stood out to me as areas that could be improved for impact and understanding. Lastly, I have my visualizations of a way to share this data in an alternative way.
 
 <img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/screenshot%20from%20USA%20Today.jpg" alt="USA Today Screenshot" style="height:150px"/>
 
@@ -20,6 +20,13 @@ For my second data visualization critique, I used a visualization from <a href="
 ### **Wireframing and the Results**
 
 I went back and forth between two wireframing options. One was on a map with dots that represented the total cumulative number of reforms in each city so far. The other was a packed bubble design to show overall the number of cities as well as the relative size based upon total number of reforms implemented. 
+
+For both wireframes, I left a title off intentionally to see what the viewer was able to glean from it. In both cases they struggled, so then I gave three example titles I was considering for context. The two participants I had were my spouse as well as my brother. My brother also viewed it digitally and we talked on the phone since we are not in the same city, which I think was helpful because he couldn't see my face for any reactions.
+
+The three example titles I was considering were:
+1. Policing Changes Begin, but Protesters still Demand More
+2. Police Reform in the Wake of George Floyd's Murder
+3. Cities Taking Action are Few and Far Between
 
 #### Wireframe #1 - Map Version
 
