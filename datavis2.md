@@ -7,4 +7,4 @@
 
 For my second data visualization critique, I used a visualization from <a href="https://www.usatoday.com/in-depth/news/2020/07/20/protester-demands-police-policy-change-chokehold-ban/5357153002/" target="_blank">USA Today</a> that was focused on protester demands and recent police reform.
 
-![screenshot of USA Today with 3 areas marked in red for focus](/ganska-portfolio/screenshot from USA Today.jpg "USA Today Visualization").
+<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/screenshot%20from%20USA%20Today.jpg" alt="USA Today Screenshot" style="height:150px"/>
