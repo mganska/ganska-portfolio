@@ -7,7 +7,7 @@
 
 For my second data visualization critique, I used a visualization from <a href="https://www.usatoday.com/in-depth/news/2020/07/20/protester-demands-police-policy-change-chokehold-ban/5357153002/" target="_blank">USA Today</a> that was focused on protester demands and recent police reform. Below is a screenshot of this visualization as well as three things that stood out to me as areas that could be improved for impact and understanding. Lastly, I have my visualizations of a way to share this data in an alternative way.
 
-<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/screenshot%20from%20USA%20Today.jpg" alt="USA Today Screenshot" style="height:150px"/>
+<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/screenshot%20from%20USA%20Today.jpg" alt="USA Today Screenshot" style="height:125px"/>
 
 ### **Visualization Areas of Opportunity for Improvement**
 
@@ -30,5 +30,10 @@ The three example titles I was considering were:
 
 #### Wireframe #1 - Map Version
 
-<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/wireframe%20sketches_Page_1.jpg" alt="First Wireframe Option" style="height:150px"/>
+<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/wireframe%20sketches_Page_1.jpg" alt="First Wireframe Option" style="height:125px"/>
 
+When I showed this version and gave the three title options for context, my brother and spouse both thought that this was a map of places that had either defunded the police (my spouse) or a map of cities that were doing things to reform policing (my brother). My spouse thought that the dark blue represented places that had already passed reform measures, and the lighter blue dots were places that were in the process or debating reform measures. My brother thought that the darker blue represented cities that were actually doing something and had done more or a better job. Both found it surprising to see cities in Texas, especially since they were darker blue. Both also liked the use of blue since it ties to cops and the police. 
+
+#### Wireframe #2 - Packed Bubble Version
+
+<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/wireframe%20sketches_Page_2.jpg" alt="Second Wireframe Option" style="height:125px"/>
