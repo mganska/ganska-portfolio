@@ -9,7 +9,7 @@ For my second data visualization critique, I used a visualization from <a href="
 
 <img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/screenshot%20from%20USA%20Today.jpg" alt="USA Today Screenshot" style="height:150px"/>
 
-### **Visualization Areas of Opportunity for Improvement
+### **Visualization Areas of Opportunity for Improvement**
 
 1. As the first data visualization in this story, the first thing I noticed was that there were four pages to scroll through of the city data. While this table seems to be designed to show the overall impact from protests, by not containing the impact on one page it would be easy for a reader to scroll past or miss the fact that there are many more cities and states hidden.
 
