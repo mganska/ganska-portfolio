@@ -17,3 +17,11 @@ For my second data visualization critique, I used a visualization from <a href="
 
 3. My last initial reaction was in the overall negative space. Because there were nine reforms possible, and most places only implemented one or two (and none implemented all nine yet) it does give the idea that there is a lot to be done - but again, I thought this negative space would be better seen on a map since it could show that entire states or sections of the country have not addressed any of these issues. 
 
+### **Wireframing and the Results**
+
+I went back and forth between two wireframing options. One was on a map with dots that represented the total cumulative number of reforms in each city so far. The other was a packed bubble design to show overall the number of cities as well as the relative size based upon total number of reforms implemented. 
+
+#### Wireframe #1 - Map Version
+
+<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/wireframe%20sketches_Page_1.jpg" alt="First Wireframe Option" style="height:150px"/>
+
