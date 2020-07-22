@@ -62,5 +62,5 @@ var scriptElement = document.createElement('script');
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                   
 vizElement.parentNode.insertBefore(scriptElement, vizElement);               
 </script>
-
+<br>
 I definitely had some trouble actually getting this map working - I had really wanted to have this map have filters of the type of reform, but I ultimately am not advanced enough with Tableau to do that yet. I do, however, find it more effective than a table at showing the overall impact of protests in the wake of George Floyd's death. Additonally, I did think of the target audience (USA Today readers).
