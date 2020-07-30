@@ -40,7 +40,7 @@ I created this moodboard on Canva as a way to pull together colors from images t
 
 ### Wireframes/Storyboards of my Final Project for my User Research
 
-Project Title
+Project Title<br><br>
 <img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/Title%20Slide.jpg" width="600"><br>
 
 Storyboards - Part 1 of the Arc (Positive Impact Globally of Travel)<br><br>
