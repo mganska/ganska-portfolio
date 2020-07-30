@@ -28,8 +28,10 @@ The UN World Tourism Organization has a lot of interesting data that I am still 
 <a href="https://www.unwto.org/unwto-tourism-dashboard">UNWTO Tourism Dashboard</a><br>
 <a href="https://www.e-unwto.org/doi/abs/10.5555/unwtotfb0840010020142018201912">UNWTO United States: Country-Specific: Basic Indicators 2014-2018</a> - this data is shown but I did have to purchase the dataset for 7 euro.
 
-I also utilized data from www.visitpa.com. There were comprehensive Economic Impact Reports and traveller profiles specific to the state as a whole entity as well as to various PA regions for tourism.
-<a href="https://www.visitpa.com/economic-impact-travel-report">www.visitpa.com Economic Impact Reports</a>
+I also utilized data from www.visitpa.com. There were comprehensive <a href="https://www.visitpa.com/economic-impact-travel-report">Economic Impact Reports</a> and traveller profiles specific to the state as a whole entity as well as to various PA regions for tourism.
+
+I also found public data on Statista.com.
+<a href="https://www.statista.com/statistics/269959/employment-in-the-united-states/">Employment in the United States from 2010 to 2020</a>
 
 
 
