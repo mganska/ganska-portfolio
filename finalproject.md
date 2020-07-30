@@ -33,5 +33,7 @@ I also utilized data from www.visitpa.com. There were comprehensive <a href="htt
 I also found public data on Statista.com.
 <a href="https://www.statista.com/statistics/269959/employment-in-the-united-states/">Employment in the United States from 2010 to 2020</a>
 
+### Moodboard/Color Palette for Final Project
 
+<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/MoodBoard%20for%20Final%20Project.jpg">
 
