@@ -7,8 +7,8 @@ As a big picture goal, I also would love to find a way to incorporate user feedb
 
 ### Class Workshop Outcomes
 
-<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/Final%20Project_Page_1.jpg" width="400"><br>
+<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/Final%20Project_Page_1.jpg" width="600"><br>
 
-<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/Final%20Project_Page_2.jpg" width="400"><br>
+<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/Final%20Project_Page_2.jpg" width="600"><br>
 
-<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/Final%20Project_Page_3.jpg" width="400"><br>
+<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/Final%20Project_Page_3.jpg" width="600"><br>
