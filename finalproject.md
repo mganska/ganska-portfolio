@@ -54,4 +54,6 @@ Storyboards = Part 1 of the Arc (Positive Impact in the US of Travel)<br><br>
 
 ### User Research and Interviews
 
+This is still in process. I am finishing my wireframes and storyboards and I have a Google Form/survey to send to my sample users.
+
 <a href="https://mganska.github.io/ganska-portfolio/">Link to My Main Portfolio Page</a>
