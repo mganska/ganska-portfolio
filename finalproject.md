@@ -54,6 +54,10 @@ Storyboards = Part 1 of the Arc (Positive Impact in the US of Travel)<br><br>
 
 ### User Research and Interviews
 
-This is still in process. I am finishing my wireframes and storyboards and I have a Google Form/survey to send to my sample users.
+This is still in process. I am finishing my wireframes and storyboards and I have a Google Form/survey in progress to send to my sample users; however, as of 7/29 it has not been distributed yet to them.
+
+I am going to try to find users in different age demographics that have some sort of interest in travel and/or tourism.
+
+My survey link is here - <a href="https://forms.gle/RG6vcRSgy5PUkozD9">Google Form for Users to Respond</a>
 
 <a href="https://mganska.github.io/ganska-portfolio/">Link to My Main Portfolio Page</a>
