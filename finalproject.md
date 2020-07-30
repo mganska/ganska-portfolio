@@ -1,6 +1,8 @@
 
 # Final Project - Part 1
 
+<a href="https://mganska.github.io/ganska-portfolio/">Link to My Main Portfolio Page</a>
+
 For my final project, I wanted to show the impact that local tourism plays on the economy and also provide a meaningful way for people who enjoy travelling to still get out and be tourists responsibly during the pandemic. While I primarily wanted to focus on PA (since I am local to Pittsburgh) and that was my original focus when in the workshop groups, the feedback I got from other students is that this is actually a good story that could be applied around the country and even worldwide. I hadn't necessarily thought of that originally, but taking that step back allowed me to look for some further data sources. Ultimately, at this point my goal is to provide a Shorthand that shows the importance of travel and tourism globally as well as locally and then provide specific details to a Pittsburgh case study. 
 
 As a big picture goal, I also would love to find a way to incorporate user feedback/recommendations. One thing I have really noticed is that certain businesses are taking a proactive and strong approach to social distancing and mask usage, while others are more lax. Allowing the final project to be dynamic with user feedback would also make it more of a one stop resource as opposed to checking multiple sources and recent user feedback regarding businesses adherence to the current standards.
@@ -52,3 +54,4 @@ Storyboards = Part 1 of the Arc (Positive Impact in the US of Travel)<br><br>
 
 ### User Research and Interviews
 
+<a href="https://mganska.github.io/ganska-portfolio/">Link to My Main Portfolio Page</a>
