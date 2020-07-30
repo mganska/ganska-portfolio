@@ -35,5 +35,6 @@ I also found public data on Statista.com.
 
 ### Moodboard/Color Palette for Final Project
 
+I created this moodboard on Canva as a way to pull together colors from images that match the feel I'd like to project. These images were mainly pulled as Pennsylvania or Tourism tagged items and highlighted various regional experiences.<br>
 <img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/MoodBoard%20for%20Final%20Project.jpg">
 
