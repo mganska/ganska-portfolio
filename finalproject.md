@@ -43,10 +43,10 @@ I created this moodboard on Canva as a way to pull together colors from images t
 Project Title
 <img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/Title%20Slide.jpg" width="600"><br>
 
-Storyboards - Part 1 of the Arc (Positive Impact Globally of Travel)
-<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/Final%20Project_Page_4.jpg" width="600" border="5px solid #555"><br>
-<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/Final%20Project_Page_5.jpg" width="600"><br>
-Storyboards = Part 1 of the Arc (Positive Impact in the US of Travel)
-<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/Final%20Project_Page_6.jpg" width="600"><br>
-<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/Final%20Project_Page_7.jpg" width="600"><br>
+Storyboards - Part 1 of the Arc (Positive Impact Globally of Travel)<br><br>
+<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/Final%20Project_Page_4.jpg" width="600"<br><br>
+<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/Final%20Project_Page_5.jpg" width="600"><br><br>
+Storyboards = Part 1 of the Arc (Positive Impact in the US of Travel)<br><br>
+<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/Final%20Project_Page_6.jpg" width="600"><br><br>
+<img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/Final%20Project_Page_7.jpg" width="600"><br><br>
 
