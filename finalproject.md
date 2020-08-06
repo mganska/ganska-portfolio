@@ -51,6 +51,8 @@ Storyboards - Part 1 of the Arc (Positive Impact Globally of Travel)<br><br>
 Storyboards = Part 1 of the Arc (Positive Impact in the US of Travel)<br><br>
 <img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/Final%20Project_Page_6.jpg" width="600"><br><br>
 <img src="https://raw.githubusercontent.com/mganska/ganska-portfolio/master/Final%20Project_Page_7.jpg" width="600"><br><br>
+<img src="https://github.com/mganska/ganska-portfolio/blob/master/COVID-19%20with%20High%20Unemployment.png" width="600"><br><br>
+<img src="https://github.com/mganska/ganska-portfolio/blob/master/Bigger%20than%20Just%20Restaurants_Hotels.png" width="600"><br><br>
 
 ### User Research and Interviews
 
