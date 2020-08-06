@@ -58,12 +58,24 @@ Storyboards = Part 1 of the Arc (Positive Impact in the US of Travel)<br><br>
 
 ### User Research and Interviews
 
-This is still in process. I am finishing my wireframes and storyboards and I have a Google Form/survey in progress to send to my sample users; however, as of 7/29 it has not been distributed yet to them.
+I tried to find users in different age demographics that have some sort of interest in travel and/or tourism.
 
-I am going to try to find users in different age demographics that have some sort of interest in travel and/or tourism.
+_Question 1: What do you think this is?_
+The majority of my respondents were able to tell that this is a wireframe for a potential website to help people travel locally during COVID-19. 
 
+_Question 2: What is this telling you?_
+That you can travel locally if you do some research; that travelling locally is a way to help small businesses.
 
+_Question 3: Is anything surprising or confusing?_
+Surprise at the UN data - would have thought more local resources would be used and highlighted.
 
+_Question 4: Is there a specific chart you think can be improved, and how?_
+Multiple viewers mentioned the Local Multiplier Effect chart being confusing. I hadn't inserted the actual visualization or sketch of it in this wireframe, but I probably should have.
+
+_Question 5: What would you do differently?_
+It would be nice to see a chart showing other industries impacted by tourism.  (ex. food, bev, taxi, manufacturing, farms); more information on local businesses.
+
+From the interviews, I wanted to make sure to add more local references into my final project. 
 
 ##### Link Back to Main Portfolio
 <a href="https://mganska.github.io/ganska-portfolio/">Link to My Main Portfolio Page</a>
