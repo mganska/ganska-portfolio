@@ -62,7 +62,7 @@ This is still in process. I am finishing my wireframes and storyboards and I hav
 
 I am going to try to find users in different age demographics that have some sort of interest in travel and/or tourism.
 
-My survey link is here - <a href="https://forms.gle/RG6vcRSgy5PUkozD9">Google Form for Users to Respond</a>
+
 
 
 ##### Link Back to Main Portfolio
