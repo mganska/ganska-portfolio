@@ -21,4 +21,4 @@ This is where my data visualizations will be linked.
 _Data Visualization #1_ due 7/15 - [Link](/datavis1.md)<br>
 _Data Visualization #2_ due 7/22 - [Link](/datavis2.md)<br>
 _Final Project, Part 1_ due 7/29 - [Link](/finalproject.md)<br>
-_Final Project, Part 2_ due 8/5 - [Link](/finalproject.finalprojectpart2.md)<br>
+_Final Project, Part 2_ due 8/5 - [Link](/finalproject.md#final-project---part-2)<br>
