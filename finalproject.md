@@ -88,7 +88,7 @@ I ultimately decided to use the gold/yellow to represent the travel/tourism as w
 
 I started trying to make my visualizations in Tableau and felt like I was honestly getting nowhere. Everything was taking longer than I had, so I decided to switch to FLourish and I'm glad that I did. The customization was very simple and since I didn't have a lot of dimensions to plot, it worked better for this project than Tableau would have (at least for me). 
 
-I've embedded my Shorthand below, but if it doesn't work, it can be found <a href="https://carnegiemellon.shorthandstories.com/stay-local/index.html" target="_blank">here</a>.
+I've embedded my Shorthand below, but if it doesn't work, it can be found <a href="https://carnegiemellon.shorthandstories.com/stay-local/index.html" target="_blank">here</a>. As a note - I think actually viewing it from the link is best, because it is wider screen and then some of my images maintain their transparency, but I wanted to embed it here too!
 
 <script src="https://embed.shorthand.com/embed_9.js"></script>
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/stay-local/"><h1>STAY LOCAL</h1><p>Visiting the hidden treasures in your region is a way to explore responsibly during the pandemic.</p></div>
