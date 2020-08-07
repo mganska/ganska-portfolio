@@ -80,4 +80,16 @@ From the interviews, I wanted to make sure to add more local references into my 
 ##### Link Back to Main Portfolio
 <a href="https://mganska.github.io/ganska-portfolio/">Link to My Main Portfolio Page</a>
 
+# Final Project - Part 2
+
+The intended audience for my project is really anyone - while I use specific regional examples, I wanted to explain why it is important to think of globally as well. It can be applied to any country, state, or city. I did end up deciding not to use some other more specific PA data to keep it more broad and applicable across the United States; while I had data at the state level, I thought it would wind up being too granular. 
+
+I ultimately decided to use the gold/yellow to represent the travel/tourism as well as to create my title image. I thought it had an overall warm feeling and also would allow it to pop from the other colors in the overall design. I also was able to find a wide range of images to use on Pexel; I'm excited to use this resource in the future since it is so hard to actually find high quality images that are available for use. 
+
+I started trying to make my visualizations in Tableau and felt like I was honestly getting nowhere. Everything was taking longer than I had, so I decided to switch to FLourish and I'm glad that I did. The customization was very simple and since I didn't have a lot of dimensions to plot, it worked better for this project than Tableau would have (at least for me). 
+
+I've embedded my Shorthand below, but if it doesn't work, it can be found <a href="https://carnegiemellon.shorthandstories.com/stay-local/index.html" target="_blank">here</a>.
+
+<script src="https://embed.shorthand.com/embed_9.js"></script>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/stay-local/"><h1>STAY LOCAL</h1><p>Visiting the hidden treasures in your region is a way to explore responsibly during the pandemic.</p></div>
 
